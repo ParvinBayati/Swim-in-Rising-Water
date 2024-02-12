@@ -28,3 +28,4 @@ Possible paths for different times to reach the (n-1,n-1) square from square (0,
 
 ![possible_path](https://github.com/ParvinBayati/Swim-in-Rising-Water/assets/91033182/1bca6986-3da1-4b39-b1b6-75dd869ccd4d)
 
+Therefor, the minimum time to reach the final destination is $t=16$.

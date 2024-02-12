@@ -8,9 +8,9 @@ Return the least time until you can reach the bottom right square (n - 1, n - 1)
 
 Constraints:
 
-\[n = grid.length\]
+$n = grid.length$
 
-n = grid[i].length
+$n = grid[i].length$
 
 $1 <= n <= 50$
 

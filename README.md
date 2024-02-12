@@ -20,6 +20,4 @@ Each value grid[i][j] is unique.
 ![flowchart_swim_in_rising_water](https://github.com/ParvinBayati/Swim-in-Rising-Water/assets/91033182/a78aa996-428a-4448-bc14-7646d6789523)
 Possible paths for different times to reach the end from square (0,0) for the example
 
-![flowchart_swim_in_rising_water](https://github.com/ParvinBayati/Swim-in-Rising-Water/assets/91033182/050af758-6a9e-4f67-b2e9-26ee9f7059b1)
-
-
+![possible_path](https://github.com/ParvinBayati/Swim-in-Rising-Water/assets/91033182/e9e6cb73-a4f8-4be6-a5e0-be9d9cb99def)

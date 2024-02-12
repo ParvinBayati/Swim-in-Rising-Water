@@ -22,4 +22,5 @@ Each value grid[i][j] is unique.
 
 Possible paths for different times to reach the end from square (0,0) for the example
 
-![possible_path](https://github.com/ParvinBayati/Swim-in-Rising-Water/assets/91033182/5c0b54c6-fca0-4b76-9d19-e36db5e858a4)
+![possible_path](https://github.com/ParvinBayati/Swim-in-Rising-Water/assets/91033182/1bca6986-3da1-4b39-b1b6-75dd869ccd4d)
+

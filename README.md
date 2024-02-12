@@ -1,4 +1,4 @@
-# Swim-in-Rising-Water
+# Swim-in-Rising-Water ( Or solving a maze)
 
 You are given an n x n integer matrix grid where each value grid[i][j] represents the elevation at that point (i, j).
 

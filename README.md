@@ -12,7 +12,7 @@ $n = grid.length$
 
 $n = grid[i].length$
 
-$1 \lesseq n <= 50$
+$1 \le n <= 50$
 
 $0 <= grid[i][j] < n^2$
 

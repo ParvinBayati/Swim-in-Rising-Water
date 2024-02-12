@@ -17,7 +17,8 @@ n = grid[i].length
 0 <= grid[i][j] < n^2
 
 Each value grid[i][j] is unique.
-![flowchart_swim_in_rising_water](https://github.com/ParvinBayati/Swim-in-Rising-Water/assets/91033182/a78aa996-428a-4448-bc14-7646d6789523)
-Possible paths for different times to reach the end from square (0,0) for the example
 
-![possible_path](https://github.com/ParvinBayati/Swim-in-Rising-Water/assets/91033182/e9e6cb73-a4f8-4be6-a5e0-be9d9cb99def)
+![flowchart_swim_in_rising_water](https://github.com/ParvinBayati/Swim-in-Rising-Water/assets/91033182/c9230810-6308-40e0-a6ce-95bb40ef5040)
+
+Possible paths for different times to reach the end from square (0,0) for the example
+![possible_path](https://github.com/ParvinBayati/Swim-in-Rising-Water/assets/91033182/498e0789-e8ff-4107-8edb-4070be37f9be)

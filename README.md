@@ -8,13 +8,13 @@ Return the least time until you can reach the bottom right square (n - 1, n - 1)
 
 Constraints:
 
-$n = grid.length$
+$n = \text{grid.length}$
 
-$n = grid[i].length$
+$n = \text{grid[i].length}$
 
-$1 \le n <= 50$
+$1 \le n \le 50$
 
-$0 <= grid[i][j] < n^2$
+$0 \le \text{grid[i][j]} < n^2$
 
 Each value grid[i][j] is unique.
 

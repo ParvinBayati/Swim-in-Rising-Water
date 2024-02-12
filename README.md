@@ -17,3 +17,6 @@ n = grid[i].length
 0 <= grid[i][j] < n^2
 
 Each value grid[i][j] is unique.
+
+![flowchart_swim_in_rising_water](https://github.com/ParvinBayati/Swim-in-Rising-Water/assets/91033182/07694b7c-360d-4f69-af6b-2d7a92849413)
+

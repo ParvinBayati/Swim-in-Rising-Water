@@ -19,8 +19,12 @@ $0 \le \text{grid[i][j]} < n^2$
 Each value grid[i][j] is unique.
 
 ![flowchart_swim_in_rising_water](https://github.com/ParvinBayati/Swim-in-Rising-Water/assets/91033182/1667bda5-d231-49e1-8d4d-fb4434b7fcfd)
+Consider this example for the grid array
 
-Possible paths for different times to reach the end from square (0,0) for the example
+![grid](https://github.com/ParvinBayati/Swim-in-Rising-Water/assets/91033182/30fbc426-725d-47c5-aab4-a7359df92aab)
+
+
+Possible paths for different times to reach the (n-1,n-1) square from square (0,0) are
 
 ![possible_path](https://github.com/ParvinBayati/Swim-in-Rising-Water/assets/91033182/1bca6986-3da1-4b39-b1b6-75dd869ccd4d)
 
